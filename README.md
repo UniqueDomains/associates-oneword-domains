@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .associates one-word domains from 
 
 **Public extract:** 9,544 rows · **Live catalog:** 9,544 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/associates`  
 **Best for:** founders, investors, studios
 
@@ -71,10 +71,10 @@ print(df.head())
 | space.associates     | resell    | —         | —             | 80             | 61     | 5      | Wild West Domains, LLC                      |
 | live.associates      | premium   | $123.75   | $123.75       | 108            | 56     | 4      | name.com                                    |
 | creator.associates   | available | $21.99    | $52.99        | 70             | 45     | 7      | name.com                                    |
-| alpha.associates     | resell    | —         | —             | 90             | 54     | 5      | Spaceship, Inc.                             |
+| shop.associates      | resell    | —         | —             | 78             | 54     | 4      | Porkbun LLC                                 |
 | business.associates  | premium   | $260      | $260          | 100            | 53     | 8      | namecheap                                   |
 | forge.associates     | available | $21.99    | $52.99        | 62             | 45     | 5      | name.com                                    |
-| shop.associates      | resell    | —         | —             | 78             | 54     | 4      | Porkbun LLC                                 |
+| alpha.associates     | resell    | —         | —             | 90             | 53     | 5      | Spaceship, Inc.                             |
 | fast.associates      | premium   | $250      | $250          | 82             | 53     | 4      | name.com                                    |
 | nice.associates      | available | $21.99    | $52.99        | 86             | 44     | 4      | name.com                                    |
 | Your.associates      | resell    | —         | —             | 68             | 47     | 4      | GoDaddy.com, LLC                            |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ASSOCIATES One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ASSOCIATES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
