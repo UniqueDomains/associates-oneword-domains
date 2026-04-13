@@ -73,10 +73,10 @@ print(df.head())
 | creator.associates   | available | $21.99    | $52.99        | 70             | 45     | 7      | name.com                                    |
 | shop.associates      | resell    | —         | —             | 78             | 54     | 4      | Porkbun LLC                                 |
 | business.associates  | premium   | $260      | $260          | 100            | 53     | 8      | namecheap                                   |
-| forge.associates     | available | $21.99    | $52.99        | 62             | 45     | 5      | name.com                                    |
+| nice.associates      | available | $21.99    | $52.99        | 86             | 44     | 4      | name.com                                    |
 | alpha.associates     | resell    | —         | —             | 90             | 53     | 5      | Spaceship, Inc.                             |
 | fast.associates      | premium   | $250      | $250          | 82             | 53     | 4      | name.com                                    |
-| nice.associates      | available | $21.99    | $52.99        | 86             | 44     | 4      | name.com                                    |
+| forge.associates     | available | $21.99    | $52.99        | 62             | 44     | 5      | name.com                                    |
 | Your.associates      | resell    | —         | —             | 68             | 47     | 4      | GoDaddy.com, LLC                            |
 | art.associates       | premium   | $520      | $520          | 90             | 52     | 3      | namecheap                                   |
 | track.associates     | available | $21.99    | $52.99        | 94             | 42     | 5      | name.com                                    |
