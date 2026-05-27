@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .associates one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,521 domains · **Median ask:** $26.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/associates`  
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,6 @@ print(df.head())
 | maps.associates        | available | $21.99    | —             | 56             | 31     | 4      | name.com  |
 | has.associates         | premium   | $46.20    | $46.20        | 60             | 26     | 3      | namecheap |
 | slots.associates       | available | $21.99    | —             | 49             | 31     | 5      | name.com  |
-| inspiration.associates | available | $21.99    | —             | 88             | 30     | 11     | name.com  |
 | heroes.associates      | available | $21.99    | —             | 68             | 29     | 6      | name.com  |
 | quotes.associates      | available | $21.99    | —             | 58             | 29     | 6      | name.com  |
 | blocks.associates      | available | $21.99    | —             | 53             | 29     | 6      | name.com  |
@@ -83,6 +82,7 @@ print(df.head())
 | gems.associates        | available | $21.99    | —             | 70             | 28     | 4      | name.com  |
 | forms.associates       | available | $21.99    | —             | 54             | 28     | 5      | name.com  |
 | pages.associates       | available | $21.99    | —             | 52             | 28     | 5      | name.com  |
+| inspiration.associates | available | $21.99    | —             | 88             | 27     | 11     | name.com  |
 | backyard.associates    | available | $21.99    | —             | 80             | 27     | 9      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ASSOCIATES One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ASSOCIATES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
