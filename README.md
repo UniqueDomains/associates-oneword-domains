@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .associates one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,521 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,521 domains · **Median ask:** $26.67 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,521 domains · **Median ask:** $26.93 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/associates`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| prompts.associates     | available | $21.99    | —             | 54             | 39     | 7      | name.com  |
-| events.associates      | premium   | $123.75   | —             | 68             | 37     | 6      | name.com  |
-| tokens.associates      | available | $21.99    | —             | 51             | 36     | 6      | name.com  |
-| William.associates     | premium   | $92.40    | $92.40        | 74             | 31     | 7      | namecheap |
-| Cats.associates        | available | $49.98    | —             | 59             | 33     | 4      | namecheap |
-| SanDiego.associates    | premium   | $38.94    | $38.94        | 74             | 29     | 9      | namesilo  |
-| trends.associates      | available | $21.99    | —             | 60             | 32     | 6      | name.com  |
-| tips.associates        | premium   | $82.50    | —             | 80             | 26     | 4      | name.com  |
-| maps.associates        | available | $21.99    | —             | 56             | 31     | 4      | name.com  |
-| has.associates         | premium   | $46.20    | $46.20        | 60             | 26     | 3      | namecheap |
-| slots.associates       | available | $21.99    | —             | 49             | 31     | 5      | name.com  |
-| heroes.associates      | available | $21.99    | —             | 68             | 29     | 6      | name.com  |
-| quotes.associates      | available | $21.99    | —             | 58             | 29     | 6      | name.com  |
-| blocks.associates      | available | $21.99    | —             | 53             | 29     | 6      | name.com  |
-| popup.associates       | available | $21.99    | —             | 84             | 28     | 6      | name.com  |
-| gems.associates        | available | $21.99    | —             | 70             | 28     | 4      | name.com  |
-| forms.associates       | available | $21.99    | —             | 54             | 28     | 5      | name.com  |
-| pages.associates       | available | $21.99    | —             | 52             | 28     | 5      | name.com  |
-| inspiration.associates | available | $21.99    | —             | 88             | 27     | 11     | name.com  |
-| backyard.associates    | available | $21.99    | —             | 80             | 27     | 9      | name.com  |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| platform.associates   | available | $21.99    | —             | 92             | 48     | 8      | name.com        |
+| alpha.associates      | resell    | —         | —             | 90             | 52     | 5      | Spaceship, Inc. |
+| sex.associates        | premium   | $78.54    | $78.54        | 98             | 59     | 3      | namesilo        |
+| everything.associates | available | $21.99    | —             | 64             | 47     | 10     | name.com        |
+| national.associates   | premium   | $78.54    | $78.54        | 78             | 55     | 8      | namesilo        |
+| snap.associates       | available | $21.99    | —             | 90             | 46     | 4      | name.com        |
+| local.associates      | premium   | $118.80   | $118.80       | 102            | 53     | 5      | namesilo        |
+| print.associates      | available | $21.99    | —             | 114            | 45     | 5      | name.com        |
+| ben.associates        | premium   | $78.54    | $78.54        | 84             | 49     | 3      | namesilo        |
+| russia.associates     | available | $21.99    | —             | 90             | 45     | 6      | name.com        |
+| big.associates        | premium   | $82.50    | $82.50        | 88             | 48     | 3      | name.com        |
+| join.associates       | available | $21.99    | —             | 96             | 44     | 4      | name.com        |
+| marketing.associates  | premium   | $500      | —             | 74             | 48     | 9      | name.com        |
+| creator.associates    | available | $21.99    | $52.99        | 70             | 44     | 7      | name.com        |
+| gold.associates       | premium   | $260      | $260          | 72             | 48     | 4      | namecheap       |
+| quick.associates      | available | $21.99    | $52.99        | 72             | 43     | 5      | name.com        |
+| our.associates        | premium   | $118.80   | $118.80       | —              | 48     | 3      | namesilo        |
+| ever.associates       | available | $21.99    | —             | 96             | 41     | 4      | name.com        |
+| lab.associates        | premium   | $78.54    | $78.54        | 88             | 46     | 3      | namesilo        |
+| card.associates       | available | $21.99    | —             | 66             | 41     | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ASSOCIATES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ASSOCIATES One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
