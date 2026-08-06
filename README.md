@@ -1,10 +1,10 @@
-# Available .ASSOCIATES One-Word Domains (12,521)
+# Available .ASSOCIATES One-Word Domains (12,525)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C521%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C525%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .associates one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,521 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,525 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,521 domains · **Median ask:** $26.93 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,525 domains · **Median ask:** $25.31 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/associates`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/associates`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ASSOCIATES one-word d
 
 ### Files
 
-- `associates.csv` — public CSV extract (1,000 rows)
-- `associates.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `associates.csv`, public CSV extract (1,000 rows)
+- `associates.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| platform.associates   | available | $21.99    | —             | 92             | 48     | 8      | name.com        |
-| alpha.associates      | resell    | —         | —             | 90             | 52     | 5      | Spaceship, Inc. |
-| sex.associates        | premium   | $78.54    | $78.54        | 98             | 59     | 3      | namesilo        |
-| everything.associates | available | $21.99    | —             | 64             | 47     | 10     | name.com        |
-| national.associates   | premium   | $78.54    | $78.54        | 78             | 55     | 8      | namesilo        |
-| snap.associates       | available | $21.99    | —             | 90             | 46     | 4      | name.com        |
-| local.associates      | premium   | $118.80   | $118.80       | 102            | 53     | 5      | namesilo        |
-| print.associates      | available | $21.99    | —             | 114            | 45     | 5      | name.com        |
-| ben.associates        | premium   | $78.54    | $78.54        | 84             | 49     | 3      | namesilo        |
-| russia.associates     | available | $21.99    | —             | 90             | 45     | 6      | name.com        |
-| big.associates        | premium   | $82.50    | $82.50        | 88             | 48     | 3      | name.com        |
-| join.associates       | available | $21.99    | —             | 96             | 44     | 4      | name.com        |
-| marketing.associates  | premium   | $500      | —             | 74             | 48     | 9      | name.com        |
-| creator.associates    | available | $21.99    | $52.99        | 70             | 44     | 7      | name.com        |
-| gold.associates       | premium   | $260      | $260          | 72             | 48     | 4      | namecheap       |
-| quick.associates      | available | $21.99    | $52.99        | 72             | 43     | 5      | name.com        |
-| our.associates        | premium   | $118.80   | $118.80       | —              | 48     | 3      | namesilo        |
-| ever.associates       | available | $21.99    | —             | 96             | 41     | 4      | name.com        |
-| lab.associates        | premium   | $78.54    | $78.54        | 88             | 46     | 3      | namesilo        |
-| card.associates       | available | $21.99    | —             | 66             | 41     | 4      | name.com        |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| CNN.associates   | available | $21.99    | —             | high           | low    | 3      | name.com        |
+| alpha.associates | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
+| aid.associates   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo        |
+| NWO.associates   | available | $21.99    | —             | medium         | low    | 3      | name.com        |
+| ben.associates   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
+| xcv.associates   | available | $12.98    | $49.98        | low            | low    | 3      | namecheap       |
+| big.associates   | premium   | $82.50    | $82.50        | high           | medium | 3      | name.com        |
+| aide.associates  | available | $21.99    | —             | high           | low    | 4      | name.com        |
+| bio.associates   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo        |
+| airy.associates  | available | $12.98    | $49.98        | low            | low    | 4      | namecheap       |
+| dvd.associates   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
+| amok.associates  | available | $12.98    | $49.98        | low            | low    | 4      | namecheap       |
+| eve.associates   | premium   | $82.50    | —             | high           | medium | 3      | name.com        |
+| bake.associates  | available | $21.99    | —             | high           | low    | 4      | name.com        |
+| feb.associates   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
+| blob.associates  | available | $21.99    | —             | medium         | low    | 4      | name.com        |
+| fig.associates   | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo        |
+| bomb.associates  | available | $21.99    | —             | medium         | low    | 4      | name.com        |
+| hot.associates   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| bust.associates  | available | $21.99    | —             | high           | low    | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,521 live domains                        |
+| 1,000-row public sample | 12,525 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These .associates domains span very different naming styles. Some are broad single terms such as scream.associates, eat.associates, volume.associates, and flight.associates. Others are longer or more specific, such as deepdishpizza.associates and fireengine.associates. That makes this set more about phrase fit than raw brevity. When comparing these domains, focus on whether the word naturally pairs with “associates,” whether the full name sounds credible in a professional context, and whether any term creates obvious trademark concern. The median ask is 26.67, which keeps entry cost low, but resale depth and buyer fit will depend heavily on how cleanly the keyword works with this extension.
+This list covers one-word domain names on the .associates extension. Of the 12,525 names tracked, 11,952 are available, 554 carry premium status, and 19 are resale listings. Pricing is concentrated at the low end: 11,448 names sit under $500, with only 17 priced between $500 and $2,000. Demand skews low across the set, with 12,243 names in the lowest demand tier and just 8 reaching the top 15% demand bracket. A handful of standout names, like show.associates and watch.associates, show a wide gap between current ask price and reference value.
 
-- Best fits terms that sound natural before “associates”
-- Broad keywords and niche phrases are both present
-- Median ask is 26.67; evaluate renewal separately
-- Watch trademark risk on brand-linked terms like Barbiepink
+- 11,952 of 12,525 names are currently available now
+- Median ask near $25; 11,448 names priced under $500
+- 554 premium-status names; 19 resale listings
+- 8,244 names flagged as easy to spell for quick recall
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ASSOCIATES One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ASSOCIATES One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
