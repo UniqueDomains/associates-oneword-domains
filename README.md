@@ -1,10 +1,10 @@
-# Available .ASSOCIATES One-Word Domains (27,363)
+# Available .ASSOCIATES One-Word Domains (29,934)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C363%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C934%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .associates one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,363 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,934 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,363 domains · **Median ask:** $18.73 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 29,934 domains · **Median ask:** $18.54 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/associates`
 **Best for:** founders, investors, studios
 
@@ -64,15 +64,14 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| okay.associates  | available | $21.99    | $52.99        | high           | low    | 4      | name.com        |
 | cnn.associates   | available | $21.99    | —             | high           | low    | 3      | name.com        |
-| alpha.associates | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
+| alpha.associates | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc. |
 | aid.associates   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo        |
 | nwo.associates   | available | $21.99    | —             | medium         | low    | 3      | name.com        |
 | ben.associates   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
 | xcv.associates   | available | $12.98    | $49.98        | low            | low    | 3      | namecheap       |
-| big.associates   | premium   | $82.50    | $82.50        | high           | medium | 3      | name.com        |
-| aide.associates  | available | $21.99    | —             | high           | low    | 4      | name.com        |
+| big.associates   | premium   | $85.80    | $85.80        | medium         | low    | 3      | namecheap       |
+| aide.associates  | available | $18.99    | $38.99        | medium         | low    | 4      | namesilo        |
 | bio.associates   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo        |
 | airy.associates  | available | $12.98    | $49.98        | low            | low    | 4      | namecheap       |
 | dvd.associates   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
@@ -84,6 +83,7 @@ print(df.head())
 | fig.associates   | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo        |
 | bomb.associates  | available | $21.99    | —             | medium         | low    | 4      | name.com        |
 | hot.associates   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
+| bust.associates  | available | $21.99    | —             | high           | low    | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,363 live domains                        |
+| 1,000-row public sample | 29,934 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ASSOCIATES One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ASSOCIATES One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
