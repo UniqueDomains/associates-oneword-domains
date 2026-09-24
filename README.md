@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .associates one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,934 domains · **Median ask:** $18.54 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/associates`
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | fig.associates   | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo        |
 | bomb.associates  | available | $21.99    | —             | medium         | low    | 4      | name.com        |
 | hot.associates   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
-| bust.associates  | available | $21.99    | —             | high           | low    | 4      | name.com        |
+| bust.associates  | available | $12.98    | $49.98        | low            | low    | 4      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ASSOCIATES One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ASSOCIATES One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
